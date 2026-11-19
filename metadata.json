@@ -1,0 +1,6 @@
+{
+  "name": "ABO - Audio Broadcast Orchestrator",
+  "description": "Universal field audio recorder remote control, mixing surface, iXML metadata manager, and sound report generator for Sound Devices, Zoom, Aaton, and Zaxcom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
